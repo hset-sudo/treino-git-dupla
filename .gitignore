@@ -1,0 +1,10 @@
+# Arquivos de configuração local
+.env
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
