@@ -1,2 +1,2 @@
-# treino-git-dupla
+#  Atividade Git - hset
 Atividade de treinamento de Git dupla
